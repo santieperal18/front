@@ -19,7 +19,7 @@ export default function Encabezado() {
                         <div className="col-md-6">
                             <h1 className="mb-2">
                                 <i className="fas fa-utensils me-3"></i>
-                                Resto Bar "Resto Bar La Esquina"
+                                Resto Bar "Resto Bar La Esqna"
                             </h1>
                             <p className="subtitle mb-0">
                                 Sistema de Gestión de Pedidos - Comidas y Desayunos
